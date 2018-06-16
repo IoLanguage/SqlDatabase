@@ -1,0 +1,15 @@
+{
+  "name":         "SqlDatabase",
+  "version":      "0.1",
+  "description":  "",
+  "author":       "",
+  "website":      "http://iolanguage.org/",
+  "readme":       "README.md",
+  "protos":       ["SqlDatabase"],
+  "dependencies": {
+    "libs":     [],
+    "headers":  [],
+    "protos":   [],
+    "packages": []
+  }
+}
